@@ -1,1 +1,1 @@
-# moad2014.github.io
+/.well-known/assetlinks.json# moad2014.github.io
